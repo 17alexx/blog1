@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+#reng{
+    color: beige;
+}
+#yazi1{
+    color: blanchedalmond;
+    width: 80%;
+    text-align: left;
+}
+#sekil1{
+    float: left;
+}
+#reng2{
+    color: beige;
+    text-align: center;
+}
+#sekil2{
+   width: 100%;
+}
+
+.sol{
+    position: absolute;
+background-color: black;
+    left: 16px;
+    color: blanchedalmond;
+}
